@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import neuralBg from "@assets/generated_images/Neural_network_background_pattern_a0a300e6.png";
+import neuralBg from "../assets/generated_images/Neural_network_background_pattern_a0a300e6.png";
 
 interface NeuralBackgroundProps {
   isActive: boolean;
