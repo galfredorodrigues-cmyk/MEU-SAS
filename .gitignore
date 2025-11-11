@@ -81,3 +81,8 @@ coverage/
 # Misc
 .Spotlight-V100
 .Trashes
+node_modules
+dist
+.cache
+.env
+*.log
